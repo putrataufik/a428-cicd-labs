@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Build') {                     // Tahap Build
             steps {
-                sh 'npm install'             // Install semua dependencies React App
+                sh 'npm install'             // Install semua dependencies React Appg
             }
         }
     }
